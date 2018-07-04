@@ -1,0 +1,18 @@
+# 游戏资源文件
+OreGairu/game/bgm/
+OreGairu/game/images/
+OreGairu/game/voice/
+OreGairu/game/se/
+
+# renpy临时文件
+OreGairu/game/cache/
+OreGairu/game/saves/
+
+# 转换的脚本
+OreGairu/game/zcsr*
+
+# 原脚本
+scx/
+
+# pycharm
+venv/

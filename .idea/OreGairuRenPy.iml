@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/parser" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/chara_lay_tool" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/bgm" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/images" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/se" />
+      <excludeFolder url="file://$MODULE_DIR$/OreGairu/game/voice" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/bgm" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/images" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/saves" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/se" />
+      <excludeFolder url="file://$MODULE_DIR$/YouthRomanticComedy/game/voice" />
+      <excludeFolder url="file://$MODULE_DIR$/resources_port" />
+      <excludeFolder url="file://$MODULE_DIR$/scx" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
